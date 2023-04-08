@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **tonip1z/tonip1z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+> "I am the bag of my eyelids  
+> Tired is my body and coffee is my blood     
+> I have ran over a thousand deadlines  
+> Not known to sleep, nor known to going outside   
+> Have withstood pain to create many projects  
+> Yet those hands will never hold my degree  
+> So as I pray   
+> Unlimited Assignment Works."  
+>           -me, probably  
